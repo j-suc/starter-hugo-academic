@@ -2,9 +2,9 @@
 title: Jelena Sucevic
 role: Postdoctoral Research Scientist
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: ""
 interests:
+  - Learning
   - Cognitive Development
   - Neural network modelling
   - Cognitively-inspired AI

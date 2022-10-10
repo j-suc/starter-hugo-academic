@@ -1,7 +1,7 @@
 ---
 title: Jelena Sucevic
 role: Postdoctoral Research Scientist
-avatar_filename: img_20191024_131154.jpg
+avatar_filename: img1.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:

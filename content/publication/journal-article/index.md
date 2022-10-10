@@ -19,7 +19,7 @@ publication_types:
   - "1"
 authors:
   - admin
-  - JovanaMitrovic
+  - Jovana Mitrovic
 author_notes: []
 publication: Proceedings of the Annual Meeting of the Cognitive Science Society
 summary: ""

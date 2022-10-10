@@ -46,7 +46,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-# *“The real secret to human intelligence is our ability to learn”, Alan Turing*
+*“The real secret to human intelligence is our ability to learn”, Alan Turing*
 
 My research explores how learning occurs in human minds and in machines. I want to understand the mechanisms and building blocks of learning, i.e. how fundamental cognitive abilities such as attention and memory, and language make learning, and ultimately intelligence, possible.
 

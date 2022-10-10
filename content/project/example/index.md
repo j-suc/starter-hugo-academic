@@ -7,8 +7,7 @@ date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
 title: Neural network model of category learning
-tags:
-  - Neural networks
+tags: []
 links: []
 image:
   caption: ""

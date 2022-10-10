@@ -5,7 +5,6 @@ avatar_filename: img1.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
-  - Learning
   - Cognitive Development
   - Neural network modelling
   - Cognitively-inspired AI

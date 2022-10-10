@@ -46,6 +46,6 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-I am a Research Scientist at the Department of Experimental Psychology, University of Oxford. My research explores how learning occurs in human minds and in machines. I want to understand the mechanisms and building blocks of learning, i.e. how fundamental cognitive abilities such as attention and memory, and language make learning, and ultimately intelligence, possible.
+My research explores how learning occurs in human minds and in machines. I want to understand the mechanisms and building blocks of learning, i.e. how fundamental cognitive abilities such as attention and memory, and language make learning, and ultimately intelligence, possible.
 
 I am particularly curious about how the mind learns to learn, and I study early cognitive development. With maturing brain, limited cognitive capacities, and not knowing what there is to learn, babies are incredibly successful learners. I also use biologically-inspired neural networks to uncover the learning mechanisms in the brain, and explore how principles of early learning can be used to inspire more efficient machine learning algorithms, especially in the domain of multimodal and weakly supervised learning. As Alan Turing beautifully pointed out, “instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child’s?

@@ -46,6 +46,8 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Learning is at the core of intelligence. My research explores how learning occurs in human minds and in machines. I want to understand the mechanisms and building blocks of learning, i.e. how fundamental cognitive abilities such as attention and memory, and language make learning possible.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate
+I am particularly curious about how the mind learns to learn, and I study early cognitive development. With maturing brain, limited cognitive capacities, and not knowing what there is to learn, babies are incredibly successful learners. In other words, with limited hardware and limited software, without explicit instructions, babies are very efficient in unsupervised learning. I also use biologically-inspired neural networks to uncover the learning mechanisms in the brain, and explore how principles of early learning can be used to inspire more efficient machine learning algorithms, especially in the domain of multimodal and weakly supervised learning. As Alan Turing beautifully pointed out, “instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child’s? 
+
+I deeply care about making science accessible and useful for the society. I work with publishers to create science-based books for children, and I write about science for non-scientist

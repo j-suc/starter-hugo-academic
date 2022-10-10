@@ -43,6 +43,9 @@ education:
     - course: MSc in Psychological Research
       institution: University of Belgrade
       year: 2014
+    - course: Visiting Student
+      institution: University of Goettingen
+      year: 2013
     - course: BSc in Psychology
       institution: University of Belgrade
       year: 2013

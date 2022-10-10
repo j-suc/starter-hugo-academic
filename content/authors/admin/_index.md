@@ -34,18 +34,18 @@ education:
     - course: PhD in Experimental Psychology
       institution: University of Oxford
       year: 2018
-    - course: MSc in Psychological Research
-      institution: University of Belgrade
-      year: 2014
-    - course: BSc in Psychology
-      institution: University of Belgrade
-      year: 2013
     - course: Visiting Researcher
       institution: Harvard Medical School
       year: 2018
     - course: Visiting Student
       institution: University of Zurich
       year: 2016
+    - course: MSc in Psychological Research
+      institution: University of Belgrade
+      year: 2014
+    - course: BSc in Psychology
+      institution: University of Belgrade
+      year: 2013
 superuser: true
 last_name: Bighetti
 highlight_name: true

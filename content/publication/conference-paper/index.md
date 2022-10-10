@@ -16,7 +16,7 @@ abstract: In addition to its critical role in encoding individual episodes, the
   distributed representations and a slower learning rate. Together, the
   simulations provide an account of how the hippocampus and its constituent
   pathways support novel category learning.
-slides: example
+slides: ""
 url_pdf: ""
 publication_types:
   - "2"
@@ -35,10 +35,9 @@ url_source: https://github.com/wowchemy/wowchemy-hugo-themes
 url_video: https://youtube.com
 title: A neural network model of hippocampal contributions to category learning
 doi: ""
-featured: true
+featured: false
 tags: []
-projects:
-  - example
+projects: []
 image:
   caption: ""
   focal_point: ""

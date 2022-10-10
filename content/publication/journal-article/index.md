@@ -20,9 +20,7 @@ publication_types:
 authors:
   - admin
   - JovanaMitrovic
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 publication: Proceedings of the Annual Meeting of the Cognitive Science Society
 summary: ""
 url_dataset: ""

@@ -23,10 +23,8 @@ publication_types:
 authors:
   - admin
   - Anna Schapiro
-author_notes:
-  - Equal contribution
-  - Equal contribution
-publication: Preprint *biorXiv*
+author_notes: []
+publication: "*biorXiv* preprint "
 summary: ""
 url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
 url_project: ""

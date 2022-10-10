@@ -33,7 +33,7 @@ education:
   courses:
     - course: PhD in Experimental Psychology
       institution: University of Oxford
-      year: 2019
+      year: 2018
     - course: MSc in Psychological Research
       institution: University of Belgrade
       year: 2014

@@ -6,7 +6,7 @@ url_video: ""
 date: 2016-04-27T00:00:00.000Z
 external_link: ""
 url_slides: ""
-title: Neural network model of category learning
+title: A neural network model of category learning
 tags: []
 links: []
 image:

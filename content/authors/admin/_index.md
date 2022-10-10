@@ -40,6 +40,12 @@ education:
     - course: BSc in Psychology
       institution: University of Belgrade
       year: 2013
+    - course: Visiting Researcher
+      institution: Harvard Medical School
+      year: 2018
+    - course: Visiting Student
+      institution: University of Zurich
+      year: 2016
 superuser: true
 last_name: Bighetti
 highlight_name: true

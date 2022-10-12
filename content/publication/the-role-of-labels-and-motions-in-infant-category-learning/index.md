@@ -6,7 +6,7 @@ authors:
   - admin
   - Nadja Althaus
   - Kim Plunkett
-publication: Journal of Experimental Child Psychology.
+publication: Journal of Experimental Child Psychology
 abstract: We investigated the impact of two highly salient transient features,
   labels and motions, on novel visual category learning in 10-month-old infants.
   In three eye-tracking experiments, infants were presented with exemplars from

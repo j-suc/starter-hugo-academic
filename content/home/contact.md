@@ -17,7 +17,7 @@ content:
     - icon: twitter
       icon_pack: fab
       name: DM Me
-      link: https://twitter.com/Twitter
+      link: https://twitter.com/SucevicJelena
     
   coordinates:
     latitude: "37.4275"

@@ -5,7 +5,7 @@ date: 2022-10-12T14:26:26.078Z
 draft: false
 featured: false
 image:
-  filename: featured
-  focal_point: Smart
+  filename: ""
+  focal_point: ""
   preview_only: false
 ---

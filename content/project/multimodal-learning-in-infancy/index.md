@@ -6,6 +6,6 @@ draft: false
 featured: false
 image:
   filename: ""
-  focal_point: ""
+  focal_point: Smart
   preview_only: false
 ---

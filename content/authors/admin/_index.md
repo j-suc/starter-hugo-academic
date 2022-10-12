@@ -9,9 +9,6 @@ interests:
   - Neural network modelling
   - Cognitively-inspired AI
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: jelena.sucevic@gmail.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/SucevicJelena

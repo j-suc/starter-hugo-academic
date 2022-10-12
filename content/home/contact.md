@@ -38,7 +38,7 @@ content:
   coordinates:
     latitude: "37.4275"
     longitude: "-122.1697"
-  email: test@example.org
+  email: jelena [dot] sucevic [at] gmail [dot] com
 design:
   columns: "2"
 ---

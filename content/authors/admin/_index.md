@@ -42,13 +42,13 @@ education:
       year: 2016
     - course: MSc in Psychological Research
       institution: University of Belgrade
-      year: 2014
+      year: 2013
     - course: Visiting Student
       institution: University of Goettingen
       year: 2013
     - course: BSc in Psychology
       institution: University of Belgrade
-      year: 2013
+      year: 2012
 superuser: true
 last_name: Bighetti
 highlight_name: true

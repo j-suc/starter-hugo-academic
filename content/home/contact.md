@@ -18,10 +18,7 @@ content:
       icon_pack: fab
       name: DM Me
       link: https://twitter.com/Twitter
-    - icon: video
-      icon_pack: fas
-      name: Zoom Me
-      link: https://zoom.com
+    
   coordinates:
     latitude: "37.4275"
     longitude: "-122.1697"

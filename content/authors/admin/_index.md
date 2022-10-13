@@ -54,6 +54,6 @@ email: ""
 ---
 My research explores how learning occurs in human minds and in machines. I want to understand the algorithms and building blocks of learning. I study how fundamental cognitive abilities such as attention, memory, and language make learning, and ultimately intelligence, possible.     
 
-I am particularly curious about the process of learning to learn, and how the developing brain masters complex cognitive functions. I also use biologically-inspired neural networks to uncover the learning mechanisms in the brain. 
+I am particularly interested in the process of learning to learn, and how the developing brain masters complex cognitive functions. I also use biologically-inspired neural networks to uncover the learning mechanisms in the brain. 
 
-In addition, I study how principles of early learning can be used to inspire novel machine learning algorithms, especially in the domain of multimodal and weakly supervised learning. As Turing pointed out, “instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child’s?"
+In addition, I'm curious about how principles of early learning can be used to inspire novel machine learning algorithms, especially in the domain of multimodal and weakly supervised learning. As Turing pointed out, “instead of trying to produce a programme to simulate the adult mind, why not rather try to produce one which simulates the child’s?"
